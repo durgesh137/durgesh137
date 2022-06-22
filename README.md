@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Durgesh Kumar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning spring Boot
-- 💞️ I’m good with Java, OOPS, Collections, and Data Structures.
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m good with JavaScript, Java, OOPS, Collections, and Data Structures.
 - 📫 You can reach me on kdurgesh137@gmail.com
 
 <!---
