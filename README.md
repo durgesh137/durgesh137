@@ -36,7 +36,8 @@ Event-driven microservices + Kafka (Avro) for reliable streaming, Spring Boot fo
 - ⚙️ Jenkins • 🔁 GitHub Actions • 🧭 SonarQube • 🧪 JUnit5 • 🧩 Mockito • 📊 Dynatrace • 🔎 Splunk
 
 ## Projects
-*(I am currently enhancing my project repos — I will add pinned projects and detailed repo highlights here soon.)*
+- [E-commerce-microservices](https://github.com/durgesh137/E-commerce-microservices)  
+  Spring Boot Microservices E-commerce backend with Eureka Discovery, API Gateway, Circuit Breakers, and H2 databases.
 
 ## Get in touch
 - ✉️ Email: [dev.durgesh01@gmail.com](mailto:dev.durgesh01@gmail.com)  
